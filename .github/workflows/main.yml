@@ -21,5 +21,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commmit -m "Modiefied Feed"
+          git commit -m "Modiefied Feed"
           git push
